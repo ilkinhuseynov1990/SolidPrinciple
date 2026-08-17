@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.37531.7 d17.14
+VisualStudioVersion = 17.14.37531.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solid.Ocp", "Solid.Ocp\Solid.Ocp.csproj", "{8CBB6D3E-1F58-4CB4-BB83-8B6BF6A23538}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solid.Ocp_CloseModification", "Solid.Ocp_CloseModification\Solid.Ocp_CloseModification.csproj", "{D4E4A6DC-A224-404C-AF11-5DCE72E6CF64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solid.LSP", "Solid.LSP\Solid.LSP.csproj", "{B2E28086-A460-4A21-BAAE-BEAF87353E3B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{D4E4A6DC-A224-404C-AF11-5DCE72E6CF64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4E4A6DC-A224-404C-AF11-5DCE72E6CF64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4E4A6DC-A224-404C-AF11-5DCE72E6CF64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2E28086-A460-4A21-BAAE-BEAF87353E3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E28086-A460-4A21-BAAE-BEAF87353E3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2E28086-A460-4A21-BAAE-BEAF87353E3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2E28086-A460-4A21-BAAE-BEAF87353E3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
